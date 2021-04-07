@@ -15,5 +15,5 @@ Using tensor-flow, this program is able to classify the images into the differen
 ## [Iris Flower Classification](https://medium.com/gft-engineering/start-to-learn-machine-learning-with-the-iris-flower-classification-challenge-4859a920e5e3) 
 This challenge will use machine learning to learn the different species of Iris flowers and then classify them automatically.
 
-##Photos
+## Photos
 ![IMG](https://github.com/DmitryLandy/Machine-Learning/blob/main/AzureML/Linear_Regression_Split_75.JPG "Azure ML Designer Regression Model")
